@@ -12,6 +12,3 @@ Bu Java konsol uygulaması, kullanıcıların uçuş seçip rezervasyon yapabile
 1. `Main.java` dosyasını çalıştırın.
 2. Uçuşu seçin ve rezervasyon bilgilerini girin.
 3. Rezervasyonlar `data/rezervasyonlar.json` dosyasına yazılır.
-
-## Not
-- Daha fazla uçak, lokasyon ve uçuş için `veriOlustur()` metodu genişletilebilir.
